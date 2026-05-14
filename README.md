@@ -16,8 +16,7 @@
     <p>🐳 Docker</p> 
     <p>🤖 Git and GitHub</p> 
     <h1>Projects</h1>
-
-  🌦 Weather App
-  ✅ Todo App
-  💰 Expense Tracker
-  🔢 Calculator</h1>
+    <p>🌦 Weather App</p>
+    <p>✅ Todo App</p> 
+    <p>💰 Expense Tracker</p>
+    <p>🔢 Calculator</p>
