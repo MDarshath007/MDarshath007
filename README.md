@@ -17,7 +17,7 @@
     <p>🤖 Git and GitHub</p> 
     <h1>Projects</h1>
 
-- 🌦 Weather App
-- ✅ Todo App
-- 💰 Expense Tracker
-- 🔢 Calculator</h1>
+  🌦 Weather App
+  ✅ Todo App
+  💰 Expense Tracker
+  🔢 Calculator</h1>
