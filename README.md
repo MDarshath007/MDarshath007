@@ -1,8 +1,7 @@
-    <h1>Hi 👋, I'm Mohammed Arshath</h1>
-    <hr>
-    <h1>💻 Aspiring Software Engineer | Web Development & DevOps Enthusiast</h1>
-    <h1>ℹ️ About Me</h1>
-    <hr>
+Hi 👋, I'm Mohammed Arshath
+💻 Aspiring Software Engineer | Web Development & DevOps Enthusiast
+ℹ️ About Me
+
     <p>🎓 Pre-Final Year Engineering Student</p>
     <p>💻 Building frontend applications with HTML, CSS, and JavaScript</p>
     <p>📚 Learning DevOps practices and tools</p>
