@@ -15,7 +15,7 @@
     <p>🐧 Linux</p>
     <p>🐳 Docker</p> 
     <p>🤖 Git and GitHub</p> 
-    <h1>Projects</h1>h1>
+    <h1>Projects</h1>
 
 - 🌦 Weather App
 - ✅ Todo App
