@@ -8,6 +8,7 @@
     <h1>🛠️ Tech Stack</h1>
     <h2>🖥️ FrontEnd:</h2>
     <p>🟨 JavaScript</p>
+    <p>🅱️ BootStrap5 (Framework)</p>
     <p>🔑 API Integration</p>
     <p>🎨 CSS3</p>
     <p>🌐 HTML5</p>
