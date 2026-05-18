@@ -16,6 +16,7 @@
     <p>🐳 Docker</p> 
     <p>🤖 Git and GitHub</p> 
     <h1>Projects</h1>
+    <p>▶️ PlayStore Clone App</p>
     <p>🌦 Weather App</p>
     <p>✅ Todo App</p> 
     <p>💰 Expense Tracker</p>
