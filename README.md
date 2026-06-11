@@ -17,8 +17,8 @@
     <p>🐳 Docker</p> 
     <p>🤖 Git and GitHub</p> 
     <h1>Projects</h1>
-    <p>▶️ PlayStore Clone App <a href="https://mdarshath007.github.io/PlayStore-Clone/"></a> </p>
-    <p>🌦 Weather App <a href="https://mdarshath007.github.io/Weather-App/"></a></p>
-    <p>💰 Expense Tracker <a href="https://mdarshath007.github.io/Expense-Tracker/"></a></p>
-    <p>✅ Todo App <a href="https://mdarshath007.github.io/Todo-list/"></a></p> 
-    <p>🔢 Calculator <a href="https://mdarshath007.github.io/Calculator/"></a></p>
+    <p>▶️ PlayStore Clone App</p>
+    <p>🌦 Weather App</p>
+    <p>💰 Expense Tracker</p>
+    <p>✅ Todo App</p> 
+    <p>🔢 Calculator</p>
