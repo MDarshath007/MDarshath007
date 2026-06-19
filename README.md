@@ -9,7 +9,7 @@
     <h2>🖥️ FrontEnd:</h2>
     <p>🟨 JavaScript</p>
     <p>🅱️ BootStrap5 (Framework)</p>
-    <p>🔑 API Integration</p>
+    <p>🔑 REST API</p>
     <p>🎨 CSS3</p>
     <p>🌐 HTML5</p>
     <h2>♾️ DevOps:</h2>
