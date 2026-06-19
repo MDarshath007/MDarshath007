@@ -16,8 +16,8 @@
     <p>🐳 Docker</p> 
     <p>🤖 Git and GitHub</p> 
     <h1>Projects</h1>
-    <p>▶️ PlayStore Clone App</p>
     <p>🛍️ E-Commerce App</p>
+    <p>▶️ PlayStore Clone App</p>
     <p>🌦 Weather App</p>
     <p>🐳 Containerzid a MERN app</p>
     <p>💰 Expense Tracker</p>
