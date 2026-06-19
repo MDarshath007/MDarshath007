@@ -1,4 +1,3 @@
-<img width="183" height="218" alt="image" src="https://github.com/user-attachments/assets/c3251d3c-a1ac-402d-94e0-ef62c904f6a3" /><h1>Hi 👋, I'm Mohammed Arshath</h1>
     <h1>💻 Aspiring Software Engineer | Web Development & DevOps Enthusiast</h1>
     <h1>ℹ️ About Me</h1>
     <p>🎓 Pre-Final Year Engineering Student</p>
