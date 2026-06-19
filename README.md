@@ -1,4 +1,4 @@
-    <h1>💻 Aspiring Software Engineer | Web Development & DevOps Enthusiast</h1>
+   <h1>💻 Aspiring Software Engineer | Web Development & DevOps Enthusiast</h1>
     <h1>ℹ️ About Me</h1>
     <p>🎓 Pre-Final Year Engineering Student</p>
     <p>💻 Building frontend applications with HTML, CSS, and JavaScript</p>
@@ -8,7 +8,7 @@
     <h2>🖥️ FrontEnd:</h2>
     <p>🟨 JavaScript</p>
     <p>🅱️ BootStrap5 (Framework)</p>
-    <p>🔑 REST API</p>
+    <p>🔑 API Integration</p>
     <p>🎨 CSS3</p>
     <p>🌐 HTML5</p>
     <h2>♾️ DevOps:</h2>
