@@ -20,6 +20,3 @@
     <p>▶️ PlayStore Clone App</p>
     <p>🌦 Weather App</p>
     <p>🐳 Containerzid a MERN app</p>
-    <p>💰 Expense Tracker</p>
-    <p>✅ Todo App</p> 
-    <p>🔢 Calculator</p>
