@@ -6,6 +6,7 @@
     <p>🎯 Passionate about integrating Web Development with DevOps Principles</p>
     <h1>🛠️ Tech Stack</h1>
     <h2>🖥️ FrontEnd:</h2>
+    <p>⚛️ ReactJS</p>
     <p>🟨 JavaScript</p>
     <p>🅱️ BootStrap5 (Framework)</p>
     <p>🔑 API Integration</p>
@@ -16,6 +17,7 @@
     <p>🐳 Docker</p> 
     <p>🤖 Git and GitHub</p> 
     <h1>Projects</h1>
+    <p>🤖 GitHub Finder</p>
     <p>🛍️ E-Commerce App</p>
     <p>▶️ PlayStore Clone App</p>
     <p>🌦 Weather App</p>
