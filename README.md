@@ -89,7 +89,7 @@ A modern shopping website built with React.
 **Features**
 - Product Listing
 - Search Products
-- Product Details
+- Cart Management
 - Responsive Design
 
 ---
