@@ -136,27 +136,11 @@ A React signup form with form validation and Google Sign-In.
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=MDarshath007&theme=tokyonight&no-frame=true&margin-w=15&row=1)
-
-</div>
-
----
-
-# 📊 Activity Graph
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=MDarshath007&theme=tokyo-night)
-
----
-
 # 🌐 Connect With Me
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+<a href="https://www.linkedin.com/in/mohammed-arshath-a-737276309/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -164,7 +148,7 @@ A React signup form with form validation and Google Sign-In.
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://YOUR-PORTFOLIO-LINK">
+<a href="https://mdarshath007.github.io/Portfolio/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
