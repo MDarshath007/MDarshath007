@@ -21,9 +21,9 @@
     <p>🛍️ E-Commerce App</p>
     <p>▶️ PlayStore Clone App</p>
     <p>🌦 Weather App</p>
-    <p>🐳 Containerzid a MERN app</p> -->
+    <p>🐳 Containerzid a MERN app</p> 
 
-    <div align="center">
+    <div align="center">-->
 
 # Hi there 👋 I'm Mohammed Arshath
 
