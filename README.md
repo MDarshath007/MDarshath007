@@ -70,36 +70,15 @@
 
 # 🚀 Featured Projects
 
-### 🎮 Play Store Clone
-> A responsive Play Store-inspired web application built using the FreeToGame API.
+### 👨‍💻 GitHub Finder
+
+Search GitHub users and view their profile information.
 
 **Features**
-- 🔍 Search games
-- 🏷️ Filter by category
-- 📱 Responsive UI
-- 📄 Individual game details
-
----
-
-### 🌦 Weather App
-
-A weather application that displays real-time weather information using a weather API.
-
-**Features**
-- Current weather
-- Search by city
-- Responsive interface
-
----
-
-### 💰 Expense Tracker
-
-Track daily expenses with an intuitive and responsive interface.
-
-**Features**
-- Add expenses
-- Delete expenses
-- Local Storage support
+- Search GitHub users
+- View profile details
+- Display repositories
+- Responsive React UI
 
 ---
 
@@ -115,17 +94,32 @@ A modern shopping website built with React.
 
 ---
 
-### 👨‍💻 GitHub Finder
-
-Search GitHub users and view their profile information.
+### 🎮 Play Store Clone
+> A responsive Play Store-inspired web application built using the FreeToGame API.
 
 **Features**
-- Search GitHub users
-- View profile details
-- Display repositories
-- Responsive React UI
+- 🔍 Search games
+- 🏷️ Filter by category
+- 📱 Responsive UI
+- 📄 Individual game details
 
 ---
+
+### 🔐 Form Validation & Google Authentication
+
+A React signup form with form validation and Google Sign-In.
+
+**Features**
+- ✅ Form validation
+- 📧 Email validation
+- 🔒 Password validation
+- 🔁 Confirm password matching
+- 🔐 Google Sign-In
+- 📱 Responsive design
+
+---
+
+
 
 # 📈 GitHub Stats
 
