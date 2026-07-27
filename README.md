@@ -42,7 +42,7 @@
 - 🌱 Currently learning **React, Tailwind CSS, Node.js & Express.js**
 - 🎯 Goal: Become a **Full Stack (MERN) Developer**
 - 🔍 Looking for **Internships** and **Entry-Level Software Engineer** opportunities
-- ⚡ I enjoy turning ideas into real-world web applications
+<!-- ⚡ I enjoy turning ideas into real-world web applications -->
 
 ---
 
