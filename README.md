@@ -54,16 +54,16 @@
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react" />
 </p>
 
-### Backend (Learning)
+<!-- ### Backend (Learning)
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
+</p> -->
 
 ### Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
 </p>
 
 ---
