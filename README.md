@@ -120,9 +120,7 @@ A React signup form with form validation and Google Sign-In.
 
 ---
 
-
-
-# 📈 GitHub Stats
+<!-- # 📈 GitHub Stats
 
 <div align="center">
 
@@ -134,7 +132,7 @@ A React signup form with form validation and Google Sign-In.
 
 </div>
 
----
+--- -->
 
 # 🌐 Connect With Me
 
