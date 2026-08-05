@@ -156,8 +156,6 @@ A React signup form with form validation and Google Sign-In.
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=MDarshath007&style=for-the-badge&color=blue)
-
 ### ⭐ Thanks for visiting my profile!
 
 *"Code. Learn. Build. Repeat."*
