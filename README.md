@@ -70,7 +70,9 @@
 
 # 🚀 Featured Projects
 
-### 🎮 AI Tools Directory **Live: https://ai-tools-directory-alpha-ten.vercel.app/ | Repo: https://github.com/MDarshath007/AI-Tools-Directory**
+### 🎮 AI Tools Directory 
+
+**Live: https://ai-tools-directory-alpha-ten.vercel.app/ | Repo: https://github.com/MDarshath007/AI-Tools-Directory**
 
 An AI tools directory web application built using React and Tailwind CSS.
 
