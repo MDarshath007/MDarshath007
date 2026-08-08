@@ -44,7 +44,7 @@
 
 ### 🎮 AI Tools Directory 
 
-**[Live](https://ai-tools-directory-alpha-ten.vercel.app/) | [Repo](https://github.com/MDarshath007/AI-Tools-Directory)**
+**[LIVE](https://ai-tools-directory-alpha-ten.vercel.app/) | [Repo](https://github.com/MDarshath007/AI-Tools-Directory)**
 
 An AI tools directory web application built using React and Tailwind CSS.
 
@@ -59,6 +59,8 @@ An AI tools directory web application built using React and Tailwind CSS.
 
 ### 👨‍💻 GitHub Finder
 
+**[LIVE](https://git-hub-finder-seven-eta.vercel.app/) | [REPO](https://github.com/MDarshath007/GitHub-Finder)**
+
 Search GitHub users and view their profile information.
 
 **Features**
@@ -70,6 +72,8 @@ Search GitHub users and view their profile information.
 ---
 
 ### 🔐 Form Validation & Google Authentication
+
+**[LIVE](https://form-validation-gules-theta.vercel.app/) | [REPO](https://github.com/MDarshath007/form-validation)**
 
 A React signup form with form validation and Google Sign-In.
 
