@@ -1,30 +1,3 @@
-   <!-- <h1>💻 Aspiring Software Engineer | Web Development & DevOps Enthusiast</h1>
-    <h1>ℹ️ About Me</h1>
-    <p>🎓 Pre-Final Year Engineering Student</p>
-    <p>💻 Building frontend applications with HTML, CSS, and JavaScript</p>
-    <p>📚 Learning DevOps practices and tools</p>
-    <p>🎯 Passionate about integrating Web Development with DevOps Principles</p>
-    <h1>🛠️ Tech Stack</h1>
-    <h2>🖥️ FrontEnd:</h2>
-    <p>⚛️ ReactJS</p>
-    <p>🟨 JavaScript</p>
-    <p>🅱️ BootStrap5 (Framework)</p>
-    <p>🔑 API Integration</p>
-    <p>🎨 CSS3</p>
-    <p>🌐 HTML5</p>
-    <h2>♾️ DevOps:</h2>
-    <p>🐧 Linux</p>
-    <p>🐳 Docker</p> 
-    <p>🤖 Git and GitHub</p> 
-    <h1>Projects</h1>
-    <p>🤖 GitHub Finder</p>
-    <p>🛍️ E-Commerce App</p>
-    <p>▶️ PlayStore Clone App</p>
-    <p>🌦 Weather App</p>
-    <p>🐳 Containerzid a MERN app</p> 
-
-    <div align="center">-->
-
 # Hi there 👋 I'm Mohammed Arshath
 
 ### 💻 Aspiring Software Engineer | Frontend Developer | B.Tech CSBS Student
@@ -42,7 +15,6 @@
 - 🌱 Currently learning **React and Tailwind CSS**
 - 🎯 Goal: Become a **Full Stack (MERN) Developer**
 - 🔍 Looking for **Internships** and **Entry-Level Software Engineer** opportunities
-<!-- ⚡ I enjoy turning ideas into real-world web applications -->
 
 ---
 
@@ -72,7 +44,7 @@
 
 ### 🎮 AI Tools Directory 
 
-**[Live:](https://ai-tools-directory-alpha-ten.vercel.app/) | [Repo:](https://github.com/MDarshath007/AI-Tools-Directory)**
+**[Live](https://ai-tools-directory-alpha-ten.vercel.app/) | [Repo](https://github.com/MDarshath007/AI-Tools-Directory)**
 
 An AI tools directory web application built using React and Tailwind CSS.
 
@@ -110,20 +82,6 @@ A React signup form with form validation and Google Sign-In.
 - 📱 Responsive design
 
 ---
-
-<!-- # 📈 GitHub Stats
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=MDarshath007&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-
-![](https://streak-stats.demolab.com?user=MDarshath007&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MDarshath007&theme=tokyonight&layout=compact&hide_border=true)
-
-</div>
-
---- -->
 
 # 🌐 Connect With Me
 
