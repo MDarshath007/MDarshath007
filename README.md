@@ -70,6 +70,19 @@
 
 # 🚀 Featured Projects
 
+### 🎮 AI Tools Directory
+
+An AI tools directory web application built using React and Tailwind CSS.
+
+**Features**
+- 🔍 Search AI Tools
+- 🏷️ Filter by category
+- 📱 Responsive UI
+- 📄 Tool details page
+- 🔖 Bookmarking tools
+
+---
+
 ### 👨‍💻 GitHub Finder
 
 Search GitHub users and view their profile information.
@@ -79,30 +92,6 @@ Search GitHub users and view their profile information.
 - View profile details
 - Display repositories
 - Responsive React UI
-
----
-
-### 🛒 MeeKart E-Commerce
-
-A modern shopping website built with React.
-
-**Features**
-- Product Listing
-- Search Products
-- Cart Management
-- Responsive Design
-
----
-
-### 🎮 Play Store Clone
-
-A responsive Play Store-inspired web application built using the FreeToGame API.
-
-**Features**
-- 🔍 Search games
-- 🏷️ Filter by category
-- 📱 Responsive UI
-- 📄 Individual game details
 
 ---
 
