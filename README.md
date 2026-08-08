@@ -39,7 +39,7 @@
 
 - 🎓 B.Tech Computer Science and Business Systems Student
 - 💻 Passionate about building responsive and interactive web applications
-- 🌱 Currently learning **React, Tailwind CSS, Node.js & Express.js**
+- 🌱 Currently learning **React and Tailwind CSS
 - 🎯 Goal: Become a **Full Stack (MERN) Developer**
 - 🔍 Looking for **Internships** and **Entry-Level Software Engineer** opportunities
 <!-- ⚡ I enjoy turning ideas into real-world web applications -->
